@@ -1,0 +1,16 @@
+C:\Users\Andrea\source\repos\AbalaLE2 new\ABALABlogDB\bin\Debug\ABALABlogDB.dacpac
+C:\Users\Andrea\source\repos\AbalaLE2 new\ABALABlogDB\bin\Debug\ABALABlogDB.dll
+C:\Users\Andrea\source\repos\AbalaLE2 new\ABALABlogDB\bin\Debug\ABALABlogDB.pdb
+C:\Users\Andrea\source\repos\AbalaLE2 new\ABALABlogDB\obj\Debug\ABALABlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\AbalaLE2 new\ABALABlogDB\obj\Debug\ABALABlogDB.dll
+C:\Users\Andrea\source\repos\AbalaLE2 new\ABALABlogDB\obj\Debug\ABALABlogDB.pdb
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\bin\Debug\ABALABlogDB.dacpac
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\bin\Debug\ABALABlogDB.dll
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\bin\Debug\ABALABlogDB.pdb
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\ABALABlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\Model.xml
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\refactor.xml
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\postdeploy.sql
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\predeploy.sql
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\ABALABlogDB.dll
+C:\Users\Andrea\source\repos\Lab\AbalaLE2 new\ABALABlogDB\obj\Debug\ABALABlogDB.pdb
