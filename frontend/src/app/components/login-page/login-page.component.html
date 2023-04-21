@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+
+<body>
+<div>
+
+    <h1>Welcome Back</h1>
+    <h3>Login Here</h3>
+
+    <form name="form" (ngSubmit)="onSubmit()" #f="ngForm" novalidate>
+        
+            <label for="username">Username</label>
+            <input
+                required
+                type="text"
+                name="username"
+                [(ngModel)]="form.username"
+                #username="ngModel">
+
+            <label for="password">Password</label>
+            <input 
+                type="password"
+                name="password"
+                [(ngModel)]="form.password"
+                required
+                #password="ngModel">
+
+        
+
+        <button>Submit</button>
+
+    </form>
+</div>
+</body>
+</html>

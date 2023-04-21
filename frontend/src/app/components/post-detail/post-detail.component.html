@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Nunito:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="post">
+
+<h3><a href="/post/{{post?.title}}">{{post?.title}}</a></h3>
+
+<div class="post-body">
+
+<p>by {{post?.firstName}} {{post?.lastName}}; on {{post?.dateCreated}}</p>
+<p>{{post?.body}}</p>
+
+</div>
+
+</div>
+</body>
+</html>

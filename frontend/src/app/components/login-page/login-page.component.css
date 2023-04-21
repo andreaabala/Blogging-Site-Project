@@ -1,0 +1,72 @@
+ body {
+  font-family: Nunito, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+h1 {
+  color: rgb(124, 165, 116);
+  margin-bottom: 20px;
+  font-family: Nunito, sans-serif;
+  font-size: 3em;
+  text-align: center;
+  
+}
+
+div {
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(121, 121, 121, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h3 {
+
+  color: rgb(214, 203, 153);
+  font-family: Nunito, sans-serif;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+label {
+  color: rgb(94, 93, 93);
+  font-weight: 500;
+  font-family: Nunito, sans-serif;
+}
+
+input {
+  width: 100px;
+  border-radius: 5px;
+  border: 2px rgb(43, 42, 42);
+  background-color: rgb(235, 233, 233);
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+
+}
+
+button {
+  width: 70px;
+  background-color: #9cc59f;
+  font-family: Nunito, sans-serif;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  padding: 10x 20x;
+  margin-right: 10px;
+  margin-top: 30px;
+  
+}
+
+
+
+button:hover {
+  background-color: rgb(214, 209, 162);
+}
+
